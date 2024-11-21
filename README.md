@@ -1,9 +1,5 @@
 # Portfolio-Website
 
-Thank you for the clarification! Here’s the updated README with the specific images listed in the images/ folder, and without the LICENSE file:
-
-Portfolio Website
-
 Welcome to my personal portfolio website repository! This site showcases my skills, projects, and experience in a modern, clean design. It’s built using HTML, CSS, and JavaScript with a focus on UI/UX Design.
 
 🚀 Features
