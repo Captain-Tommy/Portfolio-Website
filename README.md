@@ -44,7 +44,7 @@ Click on any project card to view detailed project descriptions, tech stacks, an
 ├── styles.css        # Custom styling
 ├── script.js         # JavaScript functionalities
 ├── images/           # Folder for images used in the portfolio
-│   ├── Photoroom%20Mar%2023.png # Hero section image
+│   ├── Photoroom 20Mar 2023.png # Hero section image
 │   └── dyapa.png             # Profile image
 └── README.md           # Project documentation
 ```
