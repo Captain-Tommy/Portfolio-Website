@@ -49,6 +49,8 @@ Click on any project card to view detailed project descriptions, tech stacks, an
 └── README.md           # Project documentation
 ```
 
+---
+
 ## 🧑‍🎨 **Design Principles**
 
 The design of this portfolio follows a **minimalistic** and **modern** approach, focusing on usability and aesthetics. Key design principles include:
@@ -61,10 +63,24 @@ The design of this portfolio follows a **minimalistic** and **modern** approach,
 
 ---
 
-## 🛠️ **How to Use**
+## **🧑‍🎨 Live Demo**
 
-Follow these steps to run the portfolio website locally:
+Feel free to check out a live demo of the portfolio website at the following link:
+- 	Live Demo Link
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
+---
+
+## **✨ Acknowledgements**
+
+I would like to acknowledge and thank the following resources that contributed to this project:
+- **FontAwesome**: For providing beautiful and scalable icons used throughout the portfolio.
+- **Lenis**: A smooth scrolling library that enhances the scrolling experience in the portfolio.
+- **Figma & Adobe XD**: These tools were used for designing and prototyping the user interface and user experience.
+
+---
+
+## **📜 License**
+
+This project is licensed under the MIT License.
+
+---
