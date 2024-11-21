@@ -1,5 +1,6 @@
-# Portfolio-Website
+# Portfolio Website
 
+![Portfolio Banner](https://img.shields.io/badge/Portfolio%20Website-%E2%9C%94%20Completed-brightgreen)
 
 Welcome to my personal portfolio website repository! This site showcases my skills, projects, and experience in a modern, clean design. It's built using **HTML**, **CSS**, and **JavaScript** with a focus on **UI/UX Design**.
 
