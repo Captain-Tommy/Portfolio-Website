@@ -1,6 +1,5 @@
 # Portfolio-Website
 
-# **Portfolio Website**
 
 Welcome to my personal portfolio website repository! This site showcases my skills, projects, and experience in a modern, clean design. It's built using **HTML**, **CSS**, and **JavaScript** with a focus on **UI/UX Design**.
 
@@ -50,11 +49,22 @@ Click on any project card to view detailed project descriptions, tech stacks, an
 └── README.md           # Project documentation
 ```
 
-# 🧑‍🎨 Design Principles
+## 🧑‍🎨 **Design Principles**
 
-The design of this portfolio follows a minimalistic and modern approach, focusing on usability and aesthetics. Key design principles include:
-	•	User-Centered Design: Prioritizing the user experience with intuitive navigation and clean layout.
-	•	Interactive Hover Effects: Smooth transitions and animations that enhance the interaction without overwhelming the user.
-	•	Mobile-First Approach: Designed with responsiveness in mind, ensuring an optimal experience on both mobile and desktop devices.
-	•	Visual Hierarchy: Strategic use of colors, typography, and layout to guide users through the content effortlessly.
-	•	Consistency: Maintaining consistent styles and behaviors across different sections for a seamless experience.
+The design of this portfolio follows a **minimalistic** and **modern** approach, focusing on usability and aesthetics. Key design principles include:
+
+- **User-Centered Design**: Prioritizing the user experience with intuitive navigation and clean layout.
+- **Interactive Hover Effects**: Smooth transitions and animations that enhance the interaction without overwhelming the user.
+- **Mobile-First Approach**: Designed with responsiveness in mind, ensuring an optimal experience on both mobile and desktop devices.
+- **Visual Hierarchy**: Strategic use of colors, typography, and layout to guide users through the content effortlessly.
+- **Consistency**: Maintaining consistent styles and behaviors across different sections for a seamless experience.
+
+---
+
+## 🛠️ **How to Use**
+
+Follow these steps to run the portfolio website locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
