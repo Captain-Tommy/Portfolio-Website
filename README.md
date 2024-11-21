@@ -1,60 +1,79 @@
 # Portfolio-Website
 
+Thank you for the clarification! Here’s the updated README with the specific images listed in the images/ folder, and without the LICENSE file:
 
-This repository contains the code for my personal portfolio website. It is designed to showcase my work, skills, and experience in the field of UI/UX Design, Tech, and Web Development. The website highlights my past projects and provides a detailed view of the design and development processes.
+Portfolio Website
+
+Welcome to my personal portfolio website repository! This site showcases my skills, projects, and experience in a modern, clean design. It’s built using HTML, CSS, and JavaScript with a focus on UI/UX Design.
 
 🚀 Features
 
-	•	Hero Section: Engaging introduction with a clean, modern design to present the user’s name and profile.
-	•	About Section: A brief overview of the user’s experience, skills, and interests, with interactive stats and skills showcase.
-	•	Project Gallery: Interactive display of various projects with detailed descriptions and tech stack.
-	•	Smooth Scrolling: Implemented smooth scrolling with the Lenis library for a seamless user experience.
-	•	Responsive Design: Fully responsive design that adjusts beautifully across devices (mobile, tablet, and desktop).
-	•	Project Popups: Clicking on a project card brings up a detailed view of the project in a modal popup, showcasing the tech stack, description, and a link to the live project.
+✨ Engaging Hero Section
+Introduces the user with a visually striking design and personal branding.
+
+🎨 Interactive About Section
+Displays bio, skills, and interactive stats that highlight experience and tech proficiency.
+
+💼 Project Gallery
+An interactive grid showcasing various projects with detailed views and tech stacks.
+
+⚡ Smooth Scroll
+Enhanced user experience with smooth scrolling powered by the Lenis library.
+
+📱 Fully Responsive
+Optimized design for desktop, tablet, and mobile devices.
+
+🔍 Project Popups
+Click on any project card to view detailed project descriptions, tech stacks, and external links.
 
 🧑‍💻 Technologies Used
 
-	•	Frontend: HTML5, CSS3, JavaScript
-	•	UI/UX Tools: Figma, Adobe XD
-	•	Libraries: Lenis (smooth scrolling), FontAwesome (icons)
-	•	Design: Responsive design with modern UI/UX principles
-	•	Animations: Smooth transitions, hover effects, and interactive features
+Frontend	Design Tools	Libraries
+HTML5	Figma	Lenis (smooth scroll)
+CSS3	Adobe XD, Photoshop	FontAwesome (icons)
+JavaScript		
 
-🏗️ Project Structure
+📑 Project Structure
 
-	•	index.html: The main HTML file containing the structure of the portfolio.
-	•	styles.css: Custom CSS for styling the portfolio, including layouts, animations, and responsiveness.
-	•	script.js: JavaScript functionality to control dynamic interactions such as smooth scrolling, popup modals, and scroll animations.
+├── index.html        # Main HTML structure
+├── styles.css        # Custom styling
+├── script.js         # JavaScript functionalities
+├── images/           # Folder for images used in the portfolio
+│   ├── Photoroom%20Mar%2023.png # Hero section image
+│   └── dyapa.png             # Profile image
+└── README.md           # Project documentation
 
 🧑‍🎨 Design Principles
 
-The design follows a minimalist, clean style that focuses on usability and aesthetics. The use of hover effects, interactive elements, and smooth transitions enhances the user experience, ensuring that visitors engage with the content in an intuitive and enjoyable manner.
+The portfolio is designed with minimalism in mind, focusing on a clean and modern aesthetic. Key design features include:
+	•	Interactive Hover Effects: Smooth transitions to enhance user interaction.
+	•	Modal Popups: For detailed views of each project.
+	•	Responsive Layouts: Ensuring a great experience across all devices.
 
 🛠️ How To Use
 
-	1.	Clone this repository:
+1.	Clone this repository:
 
 git clone https://github.com/yourusername/portfolio.git
 
 
-	2.	Navigate to the project folder:
+2.	Navigate to the project folder:
 
 cd portfolio
 
 
-	3.	Open the index.html file in your browser to view the portfolio.
+3.	Open index.html in your browser:
 
 open index.html
 
 
-	4.	Optionally, customize the content to match your own personal information and project details.
+🧑‍🎨 Live Demo
 
-🌟 Key Features
+Feel free to check out a live demo of the portfolio website at the link below:
+•	Live Demo Link
 
-	•	Tech Stack Showcase: Display of technologies and tools I have worked with, including C, C++, Python, and various UI/UX tools.
-	•	Interactive Project Details: View detailed descriptions of projects, technologies used, and external links to project resources or live demos.
-	•	Timeline for Education and Experience: A timeline that highlights educational milestones and professional experiences in a visually engaging manner.
+✨ Acknowledgements
 
-📑 License
-
-This project is open-source and available under the MIT License.
+•	FontAwesome for providing amazing icons.
+•	Lenis for smooth scrolling.
+•	Figma & Adobe XD for crafting the design.
