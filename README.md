@@ -83,5 +83,3 @@ I would like to acknowledge and thank the following resources that contributed t
 ## **📜 License**
 
 This project is licensed under the MIT License.
-
----
